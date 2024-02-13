@@ -1,0 +1,5 @@
+npx create-react-app my-dapp --template typescript
+cd my-dapp
+
+
+npm install @web3-react/core @web3-react/metamask ethers @walletconnect/web3-provider three
